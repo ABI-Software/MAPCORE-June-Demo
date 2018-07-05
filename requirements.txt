@@ -1,0 +1,3 @@
+-e git+https://github.com/alan-wu/MPB/tree/webpack
+-e git+https://github.com/alan-wu/open-physiology-viewer/tree/initilise_at_global
+-e .[webpack]
